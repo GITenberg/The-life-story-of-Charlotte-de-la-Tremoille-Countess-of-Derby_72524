@@ -1,5 +1,8 @@
 _repo: The-life-story-of-Charlotte-de-la-Tremoille-Countess-of-Derby_72524
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72524-h/images/cover.jpg
 creator:
   author:
     agent_name: Rowsell, Mary C. (Mary Catherine)
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/52986
     wikipedia: https://en.wikipedia.org/wiki/Mary_Catherine_Rowsell
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72524#The-life-story-of-Charlotte-de-la-Tremoille-Countess-of-Derby
 gutenberg_issued: '2023-12-28'
 gutenberg_type: Text
 identifiers:
